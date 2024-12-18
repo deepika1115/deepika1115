@@ -20,5 +20,4 @@ I'm a full-stack developer with **7+ years of experience** in building robust an
 - [LinkedIn](https://www.linkedin.com/in/deepika-pareek/)
 - [Email](mailto:deepikapareek91@gmail.com)
 
-### ⚡ Fun fact:
-I enjoy cooking and am working on a RecipeMedia app combining my love for tech and recipes!
+
